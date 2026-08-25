@@ -9,9 +9,10 @@
       "Password": "2077sapp",
       "ScriptURL": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
     },
-    "miekwetiau012": {
-      "Password": "2077sapp",
-      "ScriptURL": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
-    }
+"miekwetiau012": {
+  "Password": "2077sapp",
+  "ScriptName": "Infinite Yield",
+  "ScriptURL": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
+}
   }
 }
