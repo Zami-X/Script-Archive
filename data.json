@@ -3,17 +3,19 @@
     "kecapmanisasin29",
     "miekwetiau012",
     "1dnzxz",
+    "Grizzlynnnnnnnnn",
     "end"
   ],
   "VIPScripts": {
     "1dnzxz": {
       "Password": "2077sapp",
+      "ScriptName": "Infinite Yield",
       "ScriptURL": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
     },
-"miekwetiau012": {
-  "Password": "2077sapp",
-  "ScriptName": "Infinite Yield",
-  "ScriptURL": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
+    "miekwetiau012": {
+      "Password": "2077sapp",
+      "ScriptName": "Infinite Yield",
+      "ScriptURL": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
 }
   }
 }
