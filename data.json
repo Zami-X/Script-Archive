@@ -1,0 +1,17 @@
+{
+  "Users": [
+    "1dnzxz",
+    "TemanKamuSatu",
+    "TemanKamuDua"
+  ],
+  "VIPScripts": {
+    "1dnzxz": {
+      "Password": "mypassword123",
+      "ScriptURL": "https://raw.githubusercontent.com/zdanx/mysc/refs/heads/main/vip/1dnzxz.lua"
+    },
+    "TemanKamuSatu": {
+      "Password": "rahasia456",
+      "ScriptURL": "https://raw.githubusercontent.com/zdanx/mysc/refs/heads/main/vip/teman1.lua"
+    }
+  }
+}
