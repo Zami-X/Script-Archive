@@ -1,7 +1,6 @@
 {
   "Users": [
     "kecapmanisasin29",
-    "miekwetiau012",
     "end"
   ],
   "VIPScripts": {
@@ -10,8 +9,8 @@
       "ScriptURL": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
     },
     "TemanKamuSatu": {
-      "Password": "rahasia456",
-      "ScriptURL": "https://raw.githubusercontent.com/zdanx/mysc/refs/heads/main/vip/teman1.lua"
+      "Password": "miekwetiau012",
+      "ScriptURL": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
     }
   }
 }
